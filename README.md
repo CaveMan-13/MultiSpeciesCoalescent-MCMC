@@ -1,7 +1,7 @@
 # MultiSpeciesCoalescent-MCMC
 Bayesian Markov Chain Monte Carlo algorithm estimating evolutionary parameters of two species under the multi-species coalescent model. 
 
-The program is made to estimate __Tau__, the species divergence time and __Theta__, the ancestral populations size for two species under the multispecies coalescent model. 
+The program is made to estimate *__Tau__*, the species divergence time and *__Theta__*, the ancestral populations size for two species under the multispecies coalescent model. 
 
 It assumes the JC69 model of nucleotide substitution and is therefore most effective when comparing closely related species.
 
